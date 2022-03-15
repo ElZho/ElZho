@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @ElZho
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML and I'd like to improve my skills.
-- 💞️ I’m looking for more practice. I'd like to participate in a small ML projects. I'm used
-to working with analyses data for railway company and I like it a lot. So I started stadying ML. Now I have some practice with classical
-ML and stadying neuron nets.
-- 📫 How to reach me eezhogoleva@gmail.com
-
-<!---
-ElZho/ElZho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is one of the homework for my first course of ML. I choose https://www.kaggle.com/c/ieee-fraud-detection/ Kaggle competition.
+The difficalty in this competition was dataset without understandeble columns. Columns were called D1, D2 etc. Only some columns had real meaning to me.
+I use EDA and guess some columns meaning. For prediction I use CatBoost with param selection.
